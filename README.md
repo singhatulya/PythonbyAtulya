@@ -7,3 +7,5 @@ You can download these files and use them, tweak them, make your own code using 
 - Step 2 - Click and open these files in IDLE (Integrated Development and Learning Environment).
 - Step 3 - Click F5 to run the code and see the magic
   And you are done!
+
+Note: This course was made in Python 3.13.
