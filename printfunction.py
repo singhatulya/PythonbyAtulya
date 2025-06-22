@@ -17,7 +17,7 @@ print(3+6)
 a = 4
 print(a)
 
-#Use print to show addition, subtraction or varibles (Later discussed in detail)
+#Use print to show addition, subtraction or variables (Later discussed in detail)
 
 a = 3
 b = 1
@@ -30,11 +30,13 @@ age = 13
 print("Your age is: ", age)
 
 #That was the basics. Here are cool things you can do!
-#Change separtors between "terms" of the print function
+#Change separators between "terms" of the print function
 
 print("Apple", "Banana", "Cherry", sep = "|") #Replaces the boring Space to line |
 
-#Customize what to end the print funtion with instead of a new-line.
+#Customize what to end the print function with instead of a new-line.
 
 print("Apple", "Banana", "Cherry", sep = "|", end = "...")
 print("These are fruits!")
+
+#Made by Atulya Singh
